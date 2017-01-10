@@ -1,0 +1,45 @@
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\bin\Debug\SterlingAlgos.exe.config
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\SterlingAlgos.csproj.ResolveComReference.cache
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\bin\Debug\SterlingAlgos.exe
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\bin\Debug\SterlingAlgos.pdb
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\SterlingAlgos.Form1.resources
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\SterlingAlgos.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\SterlingAlgos.csproj.GenerateResource.Cache
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\SterlingAlgos.exe
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\SterlingAlgos.pdb
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\bin\Debug\Interop.SterlingLib.dll
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\SterlingAlgos.Manager.resources
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Debug\SterlingAlgos.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\bin\Debug\SterlingAlgos.exe.config
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.exe
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.pdb
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\bin\Debug\SterlingAlgos.exe
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\bin\Debug\SterlingAlgos.pdb
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\bin\Debug\Interop.SterlingLib.dll
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.Form1.resources
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.Manager.resources
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.Properties.Resources.resources
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.AutoProfit.resources
+C:\Users\Admin\Desktop\Prototype Codebase\SterlingAlgos\obj\x86\Debug\SterlingAlgos.RangePicker.resources
+C:\Users\Admin\Desktop\SterlingAlgos1\bin\Debug\SterlingAlgos.exe.config
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.exe
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.pdb
+C:\Users\Admin\Desktop\SterlingAlgos1\bin\Debug\SterlingAlgos.exe
+C:\Users\Admin\Desktop\SterlingAlgos1\bin\Debug\SterlingAlgos.pdb
+C:\Users\Admin\Desktop\SterlingAlgos1\bin\Debug\Interop.SterlingLib.dll
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.AutoProfit.resources
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.Form1.resources
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.Manager.resources
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.Properties.Resources.resources
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.RangePicker.resources
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.AutoProfitTest.resources
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.Form2.resources
+C:\Users\Admin\Desktop\SterlingAlgos1\obj\x86\Debug\SterlingAlgos.csprojResolveAssemblyReference.cache

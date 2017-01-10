@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SterlingAlgos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccountID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WTMCMVAL</Value>
+    </Setting>
+    <Setting Name="AutoPop1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Placeholder</Value>
+    </Setting>
+    <Setting Name="ProfitTakeMethod" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3-block</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

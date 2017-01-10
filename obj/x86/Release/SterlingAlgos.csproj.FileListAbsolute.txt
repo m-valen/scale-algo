@@ -1,0 +1,8 @@
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Release\Interop.SterlingLib.dll
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Release\SterlingAlgos.csproj.ResolveComReference.cache
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Release\SterlingAlgos.Form1.resources
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Release\SterlingAlgos.Manager.resources
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Release\SterlingAlgos.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Release\SterlingAlgos.csproj.GenerateResource.Cache
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Release\SterlingAlgos.exe
+C:\Users\Admin\Source\Repos\Sterling Algos\SterlingAlgos\obj\x86\Release\SterlingAlgos.pdb
